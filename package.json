@@ -1,0 +1,7 @@
+{
+  "name": "image-viewer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Isaac Zepeda <keogh24@gmail.com>",
+  "license": "MIT"
+}
