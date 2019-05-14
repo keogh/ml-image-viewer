@@ -4,6 +4,12 @@
   "main": "index.js",
   "author": "Isaac Zepeda <keogh24@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export -o out"
+  },
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
     "next": "^8.1.0",
